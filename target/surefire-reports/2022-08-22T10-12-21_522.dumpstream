@@ -1,0 +1,6 @@
+# Created at 2022-08-22T10:12:21.523
+Error: Could not find or load main class javaagent:C:\Users\PC-HOME\.m2\repository.org.aspectj.aspectjweaver.1.8.10.aspectjweaver-1.8.10.jar
+
+# Created at 2022-08-22T10:12:21.523
+Caused by: java.lang.ClassNotFoundException: javaagent:C:\Users\PC-HOME\.m2\repository.org.aspectj.aspectjweaver.1.8.10.aspectjweaver-1.8.10.jar
+

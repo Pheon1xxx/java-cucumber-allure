@@ -1,0 +1,5 @@
+[ {
+  "name" : "Maven",
+  "type" : "maven",
+  "buildName" : "java-cucumber-allure-gitlab"
+} ]
